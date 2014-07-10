@@ -83,6 +83,3 @@ var refuel = (galTotal / tankSize);
 
 console.log("Given the vehicle's MPG rating & how fast you plan to drive, you will need " + galTotal.toFixed(0) + ' gallons of fuel.\n');
 console.log('Your trip will cost you $' + tripCost.toFixed(2) + ' ,and you will need to refuel ' + refuel.toFixed(0) + ' times.\n\n');
-
-
-
